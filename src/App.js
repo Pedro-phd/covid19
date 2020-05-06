@@ -63,7 +63,7 @@ function App() {
         <p>Comparação: 
           {covidDataLocal}
         </p>
-        <p>Demais países: 
+        <p>Alguns estados brasileiros: 
           {covidDataRandom}
         </p>
       </div>
